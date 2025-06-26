@@ -23,3 +23,25 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+/* Social Media link styles */
+#social-media ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#social-media ul li {
+  margin: 0 10px;
+}
+
+#social-media ul li a {
+  text-decoration: none;
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+#social-media ul li a:hover {
+  color: #333;
+}
