@@ -105,3 +105,28 @@ section p {
 .comments h3 {
     font-size: 20px;
 }
+
+/* Threat List Section */
+#threats {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+#threats h2 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.threat-item {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.threat-item strong {
+    color: #4CAF50;
+}
