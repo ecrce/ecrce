@@ -20,6 +20,9 @@ header {
 }
 
 .profile-pic {
+  transform: scale(1.15);
+  object-position: center;
+
   border-radius: 50%;
   width: 140px;
   height: 140px;

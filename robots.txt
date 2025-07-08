@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Evan_Crocker_Resume_Linkedin.pdf
