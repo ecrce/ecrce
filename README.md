@@ -5,7 +5,7 @@ Welcome to my personal website! This site serves as a professional portfolio to 
 ## About Me
 I am an engineer specializing in cloud infrastructure, security, and compliance. On this site, you can learn more about my background, skills, and notable projects.
 
-## Featureschanceforpie@protonmail.com
+## Features
 - **About Me**: Learn about my career, skills, and goals.
 - **Featured Projects**: View examples of my work and contributions to infrastructure and security.
 - **Contact Me**: Get in touch via email for professional inquiries.
