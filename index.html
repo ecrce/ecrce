@@ -28,10 +28,27 @@
 
     <section class="contact">
       <h2>Contact</h2>
-      <form>
-        <input type="text" placeholder="Name" required />
-        <input type="email" placeholder="Email" required />
-        <textarea placeholder="Message" required></textarea>
+
+      <!-- functional contact form -->
+      <form
+        action="https://formspree.io/f/mldoepbg"
+        method="POST"
+      >
+        <label>
+          Name:
+          <input type="text" name="name" placeholder="Name" required />
+        </label>
+
+        <label>
+          Your email:
+          <input type="email" name="email" placeholder="Email" required />
+        </label>
+
+        <label>
+          Your message:
+          <textarea name="message" placeholder="Message" required></textarea>
+        </label>
+
         <button type="submit">Send</button>
       </form>
     </section>
